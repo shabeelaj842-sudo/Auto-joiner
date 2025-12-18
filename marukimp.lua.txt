@@ -1,6 +1,3 @@
--- ts file was generated at discord.gg/25ms
-
-
 print("Break")
 shared.LoaderTitle = "\196\144\196\131ng K\195\173 K\195\170nh \225\187\166ng H\225\187\153 Kimp Nha!"
 shared.LoaderKeyFrames = {
